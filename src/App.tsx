@@ -5,9 +5,9 @@ const imgFrame1618869436 = "https://www.figma.com/api/mcp/asset/1afe186a-2a3e-48
 export default function App() {
   return (
     <div className="flex items-center justify-center min-h-screen bg-gray-100">
-      <div className="bg-[var(--background\/canvas,white)] relative w-[390px] h-[844px] shadow-xl rounded-[40px] overflow-hidden" data-name="iPhone 13 & 14 - 138" data-node-id="25688:1584">
-        <div className="absolute bg-[var(--color\/grey\/700,#090909)] bottom-[34px] content-stretch flex gap-[8px] h-[48px] items-center justify-center left-1/2 overflow-clip px-[32px] py-[8px] rounded-[8px] translate-x-[-50%] w-[350px]" data-name="onboarding-CTA" data-node-id="25688:1589">
-          <div className="flex flex-col font-['Inter',sans-serif] font-semibold justify-center leading-[0] not-italic relative shrink-0 text-[14px] text-[color:var(--text\/on-primary,white)] text-center whitespace-nowrap" data-node-id="25688:1592">
+      <div className="bg-white relative w-[390px] h-[844px] shadow-xl rounded-[40px] overflow-hidden" data-name="iPhone 13 & 14 - 138" data-node-id="25688:1584">
+        <div className="absolute bg-[#090909] bottom-[34px] content-stretch flex gap-[8px] h-[48px] items-center justify-center left-1/2 overflow-clip px-[32px] py-[8px] rounded-[8px] translate-x-[-50%] w-[350px]" data-name="onboarding-CTA" data-node-id="25688:1589">
+          <div className="flex flex-col font-['Inter',sans-serif] font-semibold justify-center leading-[0] not-italic relative shrink-0 text-[14px] text-white text-center whitespace-nowrap" data-node-id="25688:1592">
             <p className="leading-[18px]">Send money</p>
           </div>
         </div>
@@ -16,7 +16,7 @@ export default function App() {
             Today
           </p>
           <div className="content-stretch flex flex-col items-start overflow-clip relative shrink-0 w-full" data-node-id="25688:1597">
-            <div className="content-stretch flex gap-[16px] items-center px-0 py-[8px] relative shrink-0 w-full" data-node-id="25688:1598">
+            <div className="content-stretch flex gap-[16px] items-center px-0 py-[8px] relative shrink-0 w-full hover:bg-[#f5f7f8] cursor-pointer transition-colors rounded-[4px]" data-node-id="25688:1598">
               <div className="content-stretch flex flex-[1_0_0] gap-[8px] items-center min-h-px min-w-px relative shrink-0" data-node-id="25688:1599">
                 <div className="bg-[#468dfa] overflow-clip relative rounded-[125px] shrink-0 size-[36px]" data-name="Avatar" data-node-id="25688:1600">
                   <div className="absolute left-0 size-[36px] top-0" data-name="image 1" data-node-id="I25688:1600;7734:42395">
@@ -46,7 +46,7 @@ export default function App() {
                 £ 438
               </p>
             </div>
-            <div className="content-stretch flex items-center px-0 py-[8px] relative shrink-0 w-full" data-node-id="25688:1610">
+            <div className="content-stretch flex items-center px-0 py-[8px] relative shrink-0 w-full hover:bg-[#f5f7f8] cursor-pointer transition-colors rounded-[4px]" data-node-id="25688:1610">
               <div className="content-stretch flex flex-[1_0_0] items-center justify-between min-h-px min-w-px relative shrink-0" data-node-id="25688:1611">
                 <div className="content-stretch flex gap-[8px] items-center relative shrink-0 w-[247px]" data-node-id="25688:1612">
                   <div className="bg-[#468dfa] overflow-clip relative rounded-[125px] shrink-0 size-[36px]" data-name="Avatar" data-node-id="25688:1613">
@@ -80,11 +80,11 @@ export default function App() {
                 </p>
               </div>
             </div>
-            <div className="content-stretch flex items-center px-0 py-[8px] relative shrink-0 w-full" data-node-id="25688:1624">
+            <div className="content-stretch flex items-center px-0 py-[8px] relative shrink-0 w-full hover:bg-[#f5f7f8] cursor-pointer transition-colors rounded-[4px]" data-node-id="25688:1624">
               <div className="content-stretch flex flex-[1_0_0] items-center justify-between min-h-px min-w-px relative shrink-0" data-node-id="25688:1625">
                 <div className="content-stretch flex gap-[8px] items-center relative shrink-0 w-[247px]" data-node-id="25688:1626">
                   <div className="bg-[#468dfa] content-stretch flex flex-col items-center justify-center overflow-clip relative rounded-[125px] shrink-0 size-[36px]" data-name="Avatar" data-node-id="25688:1627">
-                    <p className="font-['Inter',sans-serif] font-semibold leading-[23.625px] not-italic relative shrink-0 text-[13.5px] text-[color:var(--text\/on-solid-bg,white)]" data-node-id="I25688:1627;7734:42393">
+                    <p className="font-['Inter',sans-serif] font-semibold leading-[23.625px] not-italic relative shrink-0 text-[13.5px] text-white" data-node-id="I25688:1627;7734:42393">
                       AD
                     </p>
                   </div>
